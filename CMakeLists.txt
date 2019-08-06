@@ -1,5 +1,5 @@
 ##
-#  CMake script for the step-1 tutorial program:
+#  CMake script for the step-1 tutorial program that was edited for the purpose of exploring git commits
 ##
 
 # Set the name of the project and target:
